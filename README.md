@@ -1,7 +1,7 @@
 # AmplifyTest
 Repo reproducting https://github.com/aws-amplify/amplify-js/issues/4025
 
-## Steps to repro
+## Steps to reproduce
 1. npx react-native init AmplifyTest --template react-native-template-typescript
 2. npm install aws-amplify aws-amplify-react-native
 3. npm install --dev babel-plugin-module-resolver
